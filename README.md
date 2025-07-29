@@ -23,7 +23,8 @@ Early stopping
 
 Visualization: Detailed training curves for all metrics
 
-Requirements
+Requirements:
+
 Python 3.7+
 
 PyTorch 1.12+
