@@ -450,7 +450,7 @@ python script.py  # Modify paths first
 
 Kaggle:
 
-Use the Food101 dataset directly from Kaggle or Upload the dataset to Kaggle Datasets.
+Use the Food101 dataset directly from Kaggle 
 
 Replace Google Drive paths with Kaggle paths (e.g., /kaggle/input/dataset).
 
